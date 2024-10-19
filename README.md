@@ -17,3 +17,5 @@
 ```python
 python3 prime.py
 ```
+
+成功的号会 `append` 到 `yes.csv` 中，列为`[private,address,balance]`
