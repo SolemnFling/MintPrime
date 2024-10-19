@@ -19,3 +19,5 @@ python3 prime.py
 ```
 
 成功的号会 `append` 到 `yes.csv` 中，列为`[private,address,balance]`
+
+代币最后直接转到 `main_wallet_address` 这个地址了，新的钱包没剩多少 `eth`，就不管了
